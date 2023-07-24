@@ -1,2 +1,3 @@
-# Resturant-Program
-Resturant Program IN PYTHON
+# Restaurant-Program
+Restaurant Program IN PYTHON
+In this project 
