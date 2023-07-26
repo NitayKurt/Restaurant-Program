@@ -17,3 +17,14 @@ Or you are sitting in the restaurant and want to order from a virtual menu and s
 ![image](https://github.com/NitayKurt/Restaurant-Program/assets/104898225/c33edf5c-e983-4674-a063-d900bd3005a9)
 ![image](https://github.com/NitayKurt/Restaurant-Program/assets/104898225/2e175b23-1932-4bfb-8b0f-22a5857c3dac)
 
+### Place your order from the menu by entring the number on the left of each item that in the menu
+![image](https://github.com/NitayKurt/Restaurant-Program/assets/104898225/82409859-52be-414e-b82c-07bc0ac1e748)
+
+### Manager options for each worker there is an id that can enter him into his special options 
+![image](https://github.com/NitayKurt/Restaurant-Program/assets/104898225/19b5cdd1-e029-48c8-b241-2d0afad9af2c)
+![image](https://github.com/NitayKurt/Restaurant-Program/assets/104898225/54a98ec0-3f83-45d9-865e-d4f5729279eb)
+
+### The Summary money for the shift
+![image](https://github.com/NitayKurt/Restaurant-Program/assets/104898225/b0a82a1d-a0ef-4c97-aa9f-8825201e3f63)
+
+Feel free to explore this amazing program!
